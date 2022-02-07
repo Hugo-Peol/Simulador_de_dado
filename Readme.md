@@ -9,7 +9,7 @@
 
 
 
-#Ideias futuras para o projeto:
+# Ideias futuras para o projeto:
         * Poder trocar o valor maximo e mínimo do dado,
         * Arrumar o menu para melhorar interação com o usuário,
         * Tratar outros erros e exceções.
